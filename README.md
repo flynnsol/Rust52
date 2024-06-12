@@ -1,7 +1,9 @@
 # Rust52
+
 > [!NOTE]
 > Small to Medium Rust projects to learn the language better. The Goal of this challenge/repo is to finish 1 project per week for a year to level up my Rust skills. I might finish more than 1 in a week and then I will hopefully exceed 52 projects. 
-> Project Ideas:
+
+### Project Ideas:
 
 - [x] **[Hello World](https://github.com/flynnsol/Rust52/tree/main/projects/HelloWorld)**: Start with the classic beginner's project to get familiar with the Rust syntax and build process.
 - [x] **[Guessing Game](https://github.com/flynnsol/Rust52/tree/main/projects/GuessingGame)**: Expand on the Hello World project by creating a simple number guessing game.
