@@ -3,7 +3,7 @@ Small to Medium Rust projects to learn the language better. The Goal of this cha
 
 Project Ideas:
 
-- [ ] **Hello World**: Start with the classic beginner's project to get familiar with the Rust syntax and build process.
+- [x] **Hello World**: Start with the classic beginner's project to get familiar with the Rust syntax and build process.
 - [ ] **Guessing Game**: Expand on the Hello World project by creating a simple number guessing game.
 - [ ] **Fibonacci Sequence**: Write a program to generate the Fibonacci sequence up to a certain number.
 - [ ] **Factorial Calculator**: Create a program to calculate the factorial of a given number.
