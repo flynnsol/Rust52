@@ -1,11 +1,10 @@
 # Rust52
-Small to Medium Rust projects to learn the language better. The Goal of this challenge/repo is to finish 1 project per week for a year to level up my Rust skills. I might finish more than 1 in a week and then I will hopefully exceed 52 projects.
-
 > [!NOTE]
+> Small to Medium Rust projects to learn the language better. The Goal of this challenge/repo is to finish 1 project per week for a year to level up my Rust skills. I might finish more than 1 in a week and then I will hopefully exceed 52 projects. 
 > Project Ideas:
 
-- [x] **Hello World**: Start with the classic beginner's project to get familiar with the Rust syntax and build process.
-- [x] **Guessing Game**: Expand on the Hello World project by creating a simple number guessing game.
+- [x] **[Hello World](https://github.com/flynnsol/Rust52/tree/main/projects/HelloWorld)**: Start with the classic beginner's project to get familiar with the Rust syntax and build process.
+- [x] **[Guessing Game](https://github.com/flynnsol/Rust52/tree/main/projects/GuessingGame)**: Expand on the Hello World project by creating a simple number guessing game.
 - [ ] **Fibonacci Sequence**: Write a program to generate the Fibonacci sequence up to a certain number.
 - [ ] **Factorial Calculator**: Create a program to calculate the factorial of a given number.
 - [ ] **Prime Number Generator**: Write a program to generate prime numbers up to a given limit.
