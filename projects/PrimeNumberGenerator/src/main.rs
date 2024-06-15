@@ -14,7 +14,6 @@ fn main() {
 fn check_if_prime_number(n: i32) -> bool {
     let mut is_prime = true;
     for i in 2..n - 1 {
-        let modulo = n % i;
         if n % i == 0 {
             is_prime = false;
         }
