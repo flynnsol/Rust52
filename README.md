@@ -8,7 +8,7 @@
 - [x] **[Hello World](https://github.com/flynnsol/Rust52/tree/main/projects/HelloWorld)**: Start with the classic beginner's project to get familiar with the Rust syntax and build process.
 - [x] **[Guessing Game](https://github.com/flynnsol/Rust52/tree/main/projects/GuessingGame)**: Expand on the Hello World project by creating a simple number guessing game.
 - [x] **[Fibonacci Sequence](https://github.com/flynnsol/Rust52/tree/main/projects/FibonacciSequence)**: Write a program to generate the Fibonacci sequence up to a certain number.
-- [ ] **Factorial Calculator**: Create a program to calculate the factorial of a given number.
+- [x] **[Factorial Calculator](https://github.com/flynnsol/Rust52/tree/main/projects/FactorialCalculator)**: Create a program to calculate the factorial of a given number.
 - [ ] **Prime Number Generator**: Write a program to generate prime numbers up to a given limit.
 - [ ] **File I/O**: Learn about file input/output by creating a program that reads from and writes to files.
 - [ ] **JSON Parser**: Build a simple JSON parser to parse JSON strings into Rust data structures.
