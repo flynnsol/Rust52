@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "username": "tester",
+  "posts": 3,
+  "content": ["Test", "Content Stuff"],
+  "place": false
+}

@@ -11,7 +11,7 @@
 - [x] **[Factorial Calculator](https://github.com/flynnsol/Rust52/tree/main/projects/FactorialCalculator)**: Create a program to calculate the factorial of a given number.
 - [x] **[Prime Number Generator](https://github.com/flynnsol/Rust52/tree/main/projects/PrimeNumberGenerator)**: Write a program to generate prime numbers up to a given limit.
 - [x] **[File I/O](https://github.com/flynnsol/Rust52/tree/main/projects/FileIO)**: Learn about file input/output by creating a program that reads from and writes to files.
-- [ ] **JSON Parser**: Build a simple JSON parser to parse JSON strings into Rust data structures.
+- [x] **[JSON Parser](https://github.com/flynnsol/Rust52/tree/main/projects/JSONParser)**: Build a simple JSON parser to parse JSON strings into Rust data structures.
 - [ ] **HTTP Server**: Create a basic HTTP server using the `hyper` crate.
 - [ ] **TCP Chat Server**: Build a simple chat server using TCP sockets.
 - [ ] **URL Shortener**: Create a URL shortening service with a RESTful API.
