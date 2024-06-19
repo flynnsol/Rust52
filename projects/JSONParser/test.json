@@ -1,7 +1,6 @@
 {
-  "id": 1,
-  "username": "tester",
-  "posts": 3,
-  "content": ["Test", "Content Stuff"],
-  "place": false
+  "name": "John",
+  "age": 30.0,
+  "is_student": false,
+  "courses": ["Math", "Science"]
 }

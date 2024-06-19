@@ -1,4 +1,4 @@
-use std::collections::HashMap;
+use std::collections::BTreeMap;
 use std::fs;
 
 #[derive(Debug, PartialEq)]
@@ -8,7 +8,7 @@ enum JsonValue {
     Number(f64),
     String(String),
     Array(Vec<JsonValue>),
-    Object(HashMap<String, JsonValue>),
+    Object(BTreeMap<String, JsonValue>),
 }
 
 #[derive(Debug, PartialEq)]
@@ -126,7 +126,7 @@ fn parse_value(tokens: &[Token], mut index: usize) -> Result<(JsonValue, usize),
             Err("Expected closing bracket".to_string())
         }
         Some(Token::LeftBrace) => {
-            let mut object = HashMap::new();
+            let mut object = BTreeMap::new(); // Use BTreeMap instead of HashMap
             index += 1;
             while let Some(token) = tokens.get(index) {
                 if token == &Token::RightBrace {
