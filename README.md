@@ -50,7 +50,7 @@
 - [ ] **OAuth2 Server**: Implement an OAuth2 server for user authentication.
 - [ ] **Proxy Server**: Build a simple HTTP proxy server.
 - [ ] **Docker Container Orchestrator**: Experiment with building a tool to manage Docker containers.
-- [ ] **Task Scheduler**: Create a simple task scheduler for scheduling tasks to run at specific times.
+- [x] **[Task Scheduler](https://github.com/flynnsol/Rust52/tree/main/projects/TaskScheduler)**: Create a simple task scheduler for scheduling tasks to run at specific times.
 - [ ] **WebAssembly Game**: Build a simple game using Rust and WebAssembly.
 - [ ] **Blockchain Explorer**: Create a tool to explore and visualize blockchain transactions.
 - [ ] **DNS Server**: Build a simple DNS server using Rust.
